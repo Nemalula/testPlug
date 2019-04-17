@@ -1,0 +1,6 @@
+name: testPlug
+version: 1.7
+main: io.github.something.Citah
+description: blahblahblah
+commands:
+  msg:
